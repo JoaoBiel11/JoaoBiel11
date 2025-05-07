@@ -1,9 +1,34 @@
-## Sobre mim
+# Olá, sou [Seu Nome]!
 
-Olá! 👋 Me chamo João Gabriel, tenho 18 anos e sou apaixonado por tecnologia. Atualmente sou aluno do SENAI, cursando Desenvolvimento de Sistemas, e estou no meu segundo semestre de um total de três. Tenho o privilégio de integrar teoria e prática ao trabalhar na empresa NSF durante o curso.
+Sou estudante de **Desenvolvimento de Sistemas** no **Senai**, atualmente no segundo semestre do curso técnico, com início em **junho de 2024**. Além disso, estou atuando como **aprendiz na NSF**, onde ingressei por meio de uma parceria com o **Senai**, aplicando os conhecimentos adquiridos e aprimorando minhas habilidades práticas em programação, desenvolvimento de software e tecnologias relacionadas.
 
-Minha principal área de interesse é o back-end, onde posso criar soluções robustas e eficientes para resolver problemas complexos. 🚀
+---
 
-Além do universo da programação, gosto de aproveitar meus momentos de lazer jogando futebol, assistindo filmes e conversando com amigos. ⚽🎥💬
+## 🔧 Tecnologias que estou aprendendo e trabalhando:
 
-Fique à vontade para explorar meus projetos e entrar em contato!
+- **Linguagens**: JavaScript, Python, Java
+- **Ferramentas**: Git, GitHub, Visual Studio Code
+- **Frameworks**: React, Node.js (em aprendizado)
+- **Bancos de dados**: MySQL, SQLite
+- **Outros**: Desenvolvimento de APIs, conceitos de Front-end e Back-end
+
+---
+
+## 🚀 O que busco:
+
+- Aprender constantemente e aplicar novos conceitos de programação.
+- Colaborar em projetos de código aberto.
+- Desenvolver soluções eficientes e inovadoras.
+
+---
+
+## 📚 Atividades acadêmicas e projetos:
+
+- Participo de projetos que envolvem desenvolvimento de sistemas web e desktop, além de trabalhos que exploram o desenvolvimento de algoritmos e lógica de programação.
+- Envolvimento com **desenvolvimento ágil** e **metodologias ágeis**.
+
+---
+
+## 💼 Objetivo profissional:
+
+Estou buscando oportunidades para continuar me desenvolvendo como desenvolvedor de sistemas, com foco em **desenvolvimento full-stack**, e contribuir em projetos desafiadores que possam agregar valor à minha trajetória e ao time.
