@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]!
+# Olá, sou [João Gabriel]!
 
 Sou estudante de **Desenvolvimento de Sistemas** no **Senai**, atualmente no segundo semestre do curso técnico, com início em **junho de 2024**. Além disso, estou atuando como **aprendiz na NSF**, onde ingressei por meio de uma parceria com o **Senai**, aplicando os conhecimentos adquiridos e aprimorando minhas habilidades práticas em programação, desenvolvimento de software e tecnologias relacionadas.
 
@@ -7,8 +7,8 @@ Sou estudante de **Desenvolvimento de Sistemas** no **Senai**, atualmente no seg
 ## 🔧 Tecnologias que estou aprendendo e trabalhando:
 
 - **Linguagens**: JavaScript, Python, Java
-- **Ferramentas**: Git, GitHub, Visual Studio Code
-- **Frameworks**: React, Node.js (em aprendizado)
+- **Ferramentas**: Git, GitHub, Visual Studio Code, IntelliJ, MySql Workbanch, Eclipse
+- **Frameworks**: React, JavaScript
 - **Bancos de dados**: MySQL, SQLite
 - **Outros**: Desenvolvimento de APIs, conceitos de Front-end e Back-end
 
